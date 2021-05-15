@@ -12,15 +12,15 @@ To open the notebook in Google Colab to reproduce figure 1:
 
 To open the notebook in Google Colab to reproduce figure 2:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/albertalbesa/inhibitory-connectivity/blob/main/Notebooks/Figure2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albertalbesa/inhibitory-connectivity/blob/main/Notebooks/Figure2.ipynb)
 
 To open the notebook in Google Colab to reproduce figure 5:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/albertalbesa/inhibitory-connectivity/blob/main/Notebooks/Figure5.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albertalbesa/inhibitory-connectivity/blob/main/Notebooks/Figure5.ipynb)
 
 To open the notebook in Google Colab to reproduce figure 7:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/albertalbesa/inhibitory-connectivity/blob/main/Notebooks/Figure7.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inhibitory-connectivity/blob/main/Notebooks/Figure7.ipynb)
 
 
 Reproduction of all figures requires initializing the network voltage with initial_voltage.npy file, which can be found in the Data folder.
