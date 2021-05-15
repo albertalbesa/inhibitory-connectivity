@@ -8,7 +8,7 @@ There are four different notebooks for reproducing figures 1, 2, 5 and 7 of the 
 
 To open the notebook in Google Colab to reproduce figure 1:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/githubalbertalbesa/inhibitory-connectivity/blob/main/Notebooks/Figure1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/albertalbesa/inhibitory-connectivity/blob/main/Notebooks/Figure1.ipynb)
 
 To open the notebook in Google Colab to reproduce figure 2:
 
