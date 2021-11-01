@@ -1,6 +1,6 @@
 # inhibitory-connectivity
 
-This repository contains the code for reproduction of results obtained in the report submitted for the Practical Biomedical Modelling,
+This repository contains the code for reproduction of results obtained in the report submitted for the Practical Biomedical Modelling module assesment,
 as part of our completion of the Master of Science in Computational Neuroscience, Cognition and Artificial Intelligence of the University of Nottingham.
 
 There are four different notebooks for reproducing figures 1, 2, 5 and 7 of the paper Inhibitory Connections Define the Realm for Excitatory Plasticity. The network in simulated using Brian2 package.
